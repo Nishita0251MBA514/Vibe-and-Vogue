@@ -1,0 +1,6 @@
+{
+  "name": "Vibe & Vogue: Designer Stall Studio",
+  "description": "Curated luxury bridal and festive pop-up exhibition ROI studio and venture validation workspace for Delhi NCR designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
